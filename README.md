@@ -1,2 +1,2 @@
-# Saloon-Booking-Project
-Creating a web app with microservices about a Saloon booking
+# Saloon Booking Project
+Este es un proyecto de reservación para salones de belleza.
